@@ -7,3 +7,7 @@
 ### inserting an element x in the set 
 
 `s.insert(x)`
+
+### get the size of the set
+
+`s.size()`
