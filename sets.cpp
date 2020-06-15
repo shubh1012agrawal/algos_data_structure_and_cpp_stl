@@ -18,7 +18,8 @@ auto it = s.find(x);
 if(it==s.end()) cout<<"Element does not exists";
 else cout<<"Element exists";
 /*
-Return Value: The function returns an iterator which points to the element which is searched in the set container. If the element is not found, then the iterator points to the position just after the last element in the set.
+Return Value: The function returns an iterator which points to the element which is searched in the set container.
+If the element is not found, then the iterator points to the position just after the last element in the set.
 */
 
 // deleting  the vlue if it exists
