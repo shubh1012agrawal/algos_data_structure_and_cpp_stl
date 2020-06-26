@@ -1,5 +1,5 @@
 // find the longest subsequencs in a vector of size n in O( n * log(n) ) time
-
+// please declare the used variables 
 void solve()
 {
     cin>>n;
